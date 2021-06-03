@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal for a general satisfaction, in relation to George Oldner's invention, to prevent ships from foundering or sinking at sea, &amp;c. To which is added an answer to a pamphlet, entituled, An epistle to a Member of Parliament. As also the other advertisements; (viz.)</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27594</idno><idno type="EEBO-CITATION">99886614</idno>
+  <idno type="VID">187537</idno>
+  <idno type="EEBO-PROQUEST">2240882068</idno>
+  
+            <idno type="STC">Wing O264A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.7[109]</idno>
+            <idno type="STC">ESTC R226278</idno>
+            <idno type="PROQUEST">ocm99886614</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886614e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27594)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187537)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:1[111])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal for a general satisfaction, in relation to George Oldner's invention, to prevent ships from foundering or sinking at sea, &amp;c. To which is added an answer to a pamphlet, entituled, An epistle to a Member of Parliament. As also the other advertisements; (viz.)</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689/90]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Dated at the botton of p. 1: January the 13th, 169[illegible].</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Oldner, George --  Early works to 1800.</term>
+               <term type="topical_term">Ships --  Safety regulations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:187537:1"/>
+            <head>A PROPOSAL for a General Satisfaction, in rela<g ref="char:EOLhyphen"/>tion to <hi>George Oldner</hi>'s Invention, to prevent Ships from Foundering or Sinking at Sea, <hi>&amp;c.</hi> To which is added an <hi>ANSWER</hi> to a <hi>PAMPHLET,</hi> entituled, <hi>An Epistle to a Member of Parliament.</hi> As also the other Advertisements; <hi>(viz.)</hi>
+            </head>
+            <div type="part">
+               <p>WHEREAS on <hi>Monday</hi> the 9th of this Instant <hi>January</hi> the Books for taking Subscriptions for Shares were laid open, pursuant to the former Proposals and Advertisement, and a considerable Num<g ref="char:EOLhyphen"/>ber of Shares (notwithstanding the Papers and Pamphlets) were then Subscribed accordingly, and many more Subscriptions daily offered on the aforesaid Terms; but the Patentees and present Proprietors being willing to remove all Objections that are or can be made against their Proceedings in this Affair, and fully to satisfy the World of the Sincerity of their Intentions therein, that this useful and necessary Invention may no longer be wanting to the Publick, do propose and agree to the following Variation from the former Proposals and Advertisement; <hi>(viz.)</hi>
+               </p>
+               <p n="1">1st. That 25 <hi>s. per</hi> Share only be paid down at the time of Subscribing, into the Hands of Sir <hi>Thomas Cuddon,</hi> Knight, and Chamberlain of the City of <hi>London,</hi> or his Assigne, as Trustee, until the Committee be chosen: And that all Money so ad<g ref="char:EOLhyphen"/>vanced be paid into the said Committee or their Order, when chosen, for a Stock to be applied only for the managing and carrying on the said Invention and Letters Pa<g ref="char:EOLhyphen"/>tents, as in the former Proposals.</p>
+               <p n="2">2dly. That one third part of all clear Profits arising by Means of this Invention, shall be divided among the Patentees and present Proprietors only, until the remain<g ref="char:EOLhyphen"/>ing Sum of Eight Pounds Fifteen Shillings <hi>per</hi> Share be fully paid and satisfied, and no longer; and the other two third Parts of the said Profits to be divided in com<g ref="char:EOLhyphen"/>mon to all Persons concerned, according and in Proportion to their several and respe<g ref="char:EOLhyphen"/>ctive Interests therein.</p>
+               <p n="3">3dly. That all Persons who have already subscribed for Shares, shall be subject to these Conditions only, or may retract their former Subscriptions, and subscribe <hi>de Novo,</hi> if they see meet.</p>
+               <p n="4">4thly. That the present Proprietors shall, upon Account of this Variation, have equal Liberty with all other Subscribers, of disposing of their Shares; except the Patentees, who are to retain so many Shares as to qualify them to be of the Com<g ref="char:EOLhyphen"/>mittee, as in the former Proposals, yet nevertheless subject to an Election.</p>
+               <p n="5">5thly, That in Case the said Invention should not answer, after the Experiment has been made in a large Ship at Sea, which the Patentees and present Proprietors have no manner of Reason to doubt or question, yet to demonstrate their Sincerity and Fairness, are content that all Money so raised for a Stock, as aforesaid, with the Produce thereof, shall be equally divided and paid back to the Subscribers only; the Charges and Expences<note n="*" place="margin">Which accord<g ref="char:EOLhyphen"/>ing to the near<g ref="char:EOLhyphen"/>est Computati<g ref="char:EOLhyphen"/>on that can now be made, is pre<g ref="char:EOLhyphen"/>sum'd will not exceed <hi>5</hi> s. <hi>per</hi> Share at most, and probably not half so much, which is an inconsidera<g ref="char:EOLhyphen"/>ble Adventure for so great a Probability of so large Profits and universal Benefit, and Proposals of In<g ref="char:EOLhyphen"/>surance will in a short time be made to the Sub<g ref="char:EOLhyphen"/>scribers accor<g ref="char:EOLhyphen"/>dingly.</note> (signed and allowed by the Committee) first deducted.</p>
+               <p n="6">6thly, That pursuant to these present Conditions and Agreements, the Books for taking Subscriptions for Shares in the said Invention, shall be opened again on <hi>Tuesday</hi> the 24th of this Instant <hi>January,</hi> at <hi>Robin's-Coffee-House</hi> in <hi>Exchange-Alley, London,</hi> from Ten to One, and from Three to Seven a Clock, and shall continue open until <hi>Saturday</hi> the 28th <hi>ditto</hi> inclusive.</p>
+               <closer>
+                  <dateline>Dated <date>
+                        <hi>January</hi> the 13th, 1698/9.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="2" facs="tcp:187537:2"/>
+               <head>An ANSWER to the Nameless Pamplet, assuming a Title of <hi>An Epistle to a Member of Parliament,</hi> concerning Mr. <hi>George Oldner</hi>'s Invention; to prevent Ships from Foundering or Sinking at Sea, <hi>&amp;c.</hi> it being presumed the Author was rather com<g ref="char:EOLhyphen"/>manded by his Interest, than by a Member of the <hi>House of Commons.</hi>
+               </head>
+               <p n="1">1st. BEcause in the very beginning, he complains of the Liberty of the Press, for suffering Trifles and Whimsies to be published, and tells you, the whole Na<g ref="char:EOLhyphen"/>tion seems to have run a gadding, every little Trifler setting up for Wit, Politicks, or Projects, openly declaring himself to be one of the Number, as at the same time to be guilty of an Impertinent Libel of Folly and Falshood, so jumbled together, That for the most part it bespeaks nothing but Prejudice and Ill-Will, angry and ag<g ref="char:EOLhyphen"/>grieved, as is supposed, that honest and well-meaning Men should undertake to serve the World with a much better Invention, than this wonderful Politician with all his Wit and Art, could ever attain to be Master of; and the very Subject he gives the Honourable Person a single Instance of (tho' indeed one might have expected a variety out of the multitude of Pamphlets complain'd of) is by himself justi<g ref="char:EOLhyphen"/>fied in the Front of his Discourse, to be a Noble Undertaking, if it can ever be ac<g ref="char:EOLhyphen"/>complished; and yet (having not patience to see whether it can or no) irritated by his Anger and Folly, falls out with it almost in the very same Line, and terms it a monstrous and unaccountable Air of Whimsey and Confidence, the Inconsistency of which unaccountable piece of Logick needs no Mathematical Demonstration to such as understand <hi>English,</hi> so rudely and ungentilely has he attacked this No<g ref="char:EOLhyphen"/>ble Undertaking in his whole Discourse (and apparently without the least Know<g ref="char:EOLhyphen"/>ledge of it) letting the World see, That as Passion has overcome his Reason, he obsti<g ref="char:EOLhyphen"/>nately will be so irrational as to think nothing can be effected by Art, but what comes within the Compass of his Imagination, and at last when his mighty Capacity can<g ref="char:EOLhyphen"/>not comprehend it, makes it a Foundation whereon to build a Creed for<note n="*" place="margin">Vid. Hor. Flace. Satyr. <hi>5.</hi>
+                  </note>
+                  <hi>Judaeus Apella,</hi> which Quotation, (though far from his Intention) so aptly agrees with, and makes so much for our Purpose, that it plainly appears, he as equally understands Authors as he does <hi>George Oldner</hi>'s Invention.</p>
+               <p n="2">2dly, He finds fault with the Method of proceeding, Slenderness of the Experiment and Privacy of the inventor, tho' this last be fully answered in the printed Proposal, Page 4th, Paragraph the 2d; and as to the Experiment made in the River in so small a Vessel, which has given old Commanders and Surveyors of the building of many Ships and Vessels Satisfaction, that it will answer in a large Ship; which they offering to venture their Lives on the Experiment, shews the greatest Faith of Per<g ref="char:EOLunhyphen"/>formance and Reality of the Invention that is possible; nor can it be deny'd, That in many cases, that which answers in the little will answer in the great, whereof Instances sufficient might be given: But our scribling Author is so disingenuous, to conclude the contrary of this Invention, when at the same time, he knows nothing of it; and his saying the Marginal Note is an Acknowledgment of the most Honou<g ref="char:EOLhyphen"/>rable Person not being present at the Experiment, is false, as may appear by the same, there wanting only his seeing the Model loaden, yet did see her swim empty, and several other Persons of good Note, whom we are perswaded the World will allow better Judges in the matter than this Pamphleteer, who slyly insinuates a Suspicion of their Wisdom or Integrity. Surely, if the present Age had not abounded with selfish and mercenary Persons, the World might have been perswaded this Scribler, had out of Tenderness to them, and to prevent their being imposed upon, took all this Pains, and been at this Charge, and not for his more considerable Invention, (as he calls it) notwithstanding which, it is hoped, when it shall be humbly offered to the great Wisdom of the Honourable House of Commons, it will meet with a much more favourable Reception, than this self-inconsistent piece of Politicks is willing it should.</p>
+               <p n="3">
+                  <pb n="3" facs="tcp:187537:2"/>3dly, His accusing the Patentees of Disingenuity, for reciting a Copy of a Cer<g ref="char:EOLhyphen"/>tificate given by the Surgeons in so general Terms, That the <hi>Bilge</hi>-water is pernicious to the Health and Lives of Men, and therefore as applicable to ours as to any other Invention whatsoever, and assignable to that which best answers the end, shews ra<g ref="char:EOLhyphen"/>ther this Author's disingenuous Construction of the good and publick Spirits of the Naval Surgeons, in granting the said Certificate in so universal a manner to incou<g ref="char:EOLhyphen"/>rage all thinking Men to the Perfection of so great a Benefit, than that it should be confined to one single Invention and no more; but his quarrelling thus, as he does, without Reason or good Manners, gives us to think he's in fear, (as well he may) that the Service propos'd by his Invention, will be far more effectually perform'd by ours.</p>
+               <p n="4">4thly, His Objection against the Experiment made in a Model, and not in a large Ship already built, to all ingenious Persons who have perused the 4th Page of the Proposals, we hope and believe to be so satisfactorily answered, as that if he were not of a peevish and prejudic'd Temper, he would not have urged it.</p>
+               <p n="5">5thly, His Objection relating to the safe Arrival of a Ship with such Breaches, in <hi>Holland</hi> not to be a sufficient Testimony, unless she returned, shews his little Know<g ref="char:EOLhyphen"/>ledge of our Intentions, we having designed a farther Voyage than a return from thence to <hi>England.</hi> Likewise his asserting it to be said by one of the Patentees, that all this is to be done with the Use but of Two Pumps, is false; and shews (for the Reasons he objects) how far he is to seek in the other parts of our Invention; <hi>Pumps,</hi> by his Paper, appearing to be his sore place. Yet neither his Railing or Ig<g ref="char:EOLhyphen"/>norance shall pump the Patentees to discover to him their Secret.</p>
+               <p n="6">6thly, As to his Objection of their falling the Price of their Shares, and his assert<g ref="char:EOLhyphen"/>ing their Mistrust of the Sufficiency of the Invention, because of their condescending to accept Payments for their Shares after an Experiment is made, and Rewards ob<g ref="char:EOLhyphen"/>tained, is false in Fact, and shews how little Skill this weak Author has in common Sense, and therefore we may say with him, that as Truth loves the open Light, and Error and Imposture lurking Holes, we leave the Reader to judge whether they who have put their Names in the Front, and declare themselves openly, or he that has put neither Name, nor Place where to be found, acts fairest, And as to Mr. <hi>Lur<g ref="char:EOLhyphen"/>ting</hi>'s and Mr. <hi>Warren</hi>'s going to the <hi>Streights</hi> or <hi>West-Indies,</hi> they are still as ready on a good Account, though not to satisfy the impertinent Demands of every mercenary Scribler. But the Envy and Opposition this Invention meets with, is one very great Argument, amongst the rest, to convince us of the Value and Greatness thereof; and if this Author was really just, and as kind as he would seem, he would never have writ so much upon a Mistake; but have first fully informed himself, least he should injure his Friends as well as Mankind; for if the Invention be real, and he obstructs its Progress, he not only bereaves Mankind of the Benefit, but the Subscribers of the Gain they might have reaped thereby, so that as on one hand he may save them the loss of One Pound, so on the other hand he may hinder them the Gain of Ten Pounds; and to such as know the Invention, the last is much more likely than the first. Then he goes on with his Presumption to make us the Authors of the News in the <hi>Flying-Post;</hi> which News, though true in it self, as may be made appear by cre<g ref="char:EOLhyphen"/>dible Witnesses, yet we don't think our selves obliged to answer for Informations given to the News-Writers.</p>
+               <p n="7">7thly, He at last, like a Man a little come to himself, considers what Errors the Heat of his Passion, and the Disappointment he hath met with, hath drawn him into, returns and says, he would do any thing rather than lessen the Reputation of any Proposal that should tend to the Advantage of Mankind; the Consistency whereof, with the Contents of his Epistle, both before and in the next Paragraph, concerning the World in the Moon, we recommend to the reasonable part of Mankind to consi<g ref="char:EOLhyphen"/>der, and doubt not but Truth and Reason will prevail over Malice and Folly, and submit the whole to the Judgment of the Impartial; who no doubt but will appa<g ref="char:EOLhyphen"/>rently see (as at first hinted) this Author was byassed meerly by his Interest and there<g ref="char:EOLhyphen"/>fore deserves to have what he has written to be shrewdly suspected, and conclude answering his False and Scandalous Epistle, refering the Reader to the other Papers Printed, concerning this Invention.</p>
+               <pb n="4" facs="tcp:187537:3"/>
+               <p>As to the Advertisements of Mr. <hi>Lurting</hi> and Mr. <hi>Warren,</hi> concerning the Certi<g ref="char:EOLhyphen"/>ficate under their Hands, we can do no less than as a Demonstration of our Since<g ref="char:EOLhyphen"/>rity, acknowledge that their Testimony and Caution against the evil Practices of scandalous Stock-jobbing, <hi>&amp;c.</hi> is highly commendable, and also join with them therein; but there is one thing to be noted, That the said Mr. <hi>Lurting</hi> and Mr. <hi>War<g ref="char:EOLhyphen"/>ren</hi> (as we believe) through misunderstanding, conceived that People had ground to think by the printed Proposals, that the Experiment had been made and appro<g ref="char:EOLhyphen"/>ved by a Ship at Sea, which was never by us pretended to by Word or Writing, in any wise whatsoever, as may plainly appear by the Certificate, and hope, That that will be a sufficient Demonstration, and may serve to satisfie and undeceive any that may have so mistaken it.</p>
+               <p>
+                  <hi>Secondly,</hi> We own that neither they nor any other, which signed the Certificate, were in any wise concerned in dividing the Invention, and Letters Patents into Shares, neither did they or we ever say, That they were <hi>bona fide</hi> worth 20 <hi>l. per</hi> Share, tho' there are several concerned that do value them as mentioned in the printed Pro<g ref="char:EOLhyphen"/>posal, and some at a far higher Rate; and are very uneasie and unwillingly joined with us in our new Method, they judging that we much undervalue the Invention, in proposing the Shares at so easie a Rate.</p>
+               <p>We are bound to return them Thanks for the Justice they have done us, in own<g ref="char:EOLhyphen"/>ing the Ingenuity and Goodness of the Invention, for the Security of Shipping, and their conscientious Care to prevent rash and unthinking People from prejudicing themselves, is commendable, which cannot (as they themselves may be sensible) now accrue, by any being concerned in our Invention.</p>
+               <p>And as to the little Advertisement signed <hi>S. R.</hi> though scarce worth our taking notice of; for if the Author's Pretensions are real, he need neither be ashamed, nor afraid to own it, with his Name at length; for if he can add any thing fur<g ref="char:EOLhyphen"/>ther to what Mr. <hi>Oldner</hi> pretends to, he should not conceal it with that pr<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ence, on purpose to hinder the World of partaking of what Mr. <hi>Oldner</hi>-offers, but his Thought (as himself owns) being still imperfect, the World may <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> as long without this Invention, as hitherto it has been for him.</p>
+               <p>☞ <hi>Note,</hi> That we were threatned with the Pamphlet entituled, <hi>An Epistle,</hi> &amp;c. and the Advertisement signed <hi>S. R.</hi> before they were published, (which now have styly stolen into the World, like Foundlings into Parishes) for not admitting the Authors thereof into our Invention <hi>Gratis.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
